@@ -1,0 +1,11 @@
+https://github.com/dataprofessor/streamlit_freecodecamp
+
+https://share.streamlit.io/nayelysaldivar/streamlit_spamclasificator/main/main.py
+
+https://share.streamlit.io/natvzqz/taylorswift-dashboard/main/mainTS.py
+
+https://docs.streamlit.io/en/stable/index.html
+
+https://share.streamlit.io/s-deferrari/titanic_streamlit_app/main/main.py
+
+https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py
