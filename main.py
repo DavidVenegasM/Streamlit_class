@@ -12,7 +12,7 @@ if __name__ == "__main__":
     model = Models()
  
     # Cargamos la info
-    data = utils.load_from_csv('C:/Users/David/Downloads/Streamlit_Clase/Streamlit_Clase/in/income.csv')
+    data = utils.load_from_csv('./in/income.csv')
 
     # Mostramos un pedacito de nuestro dataset:
     print('Muestra del dataset')
