@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 
 #Carga de info
 
-df = pd.read_csv('C:/Users/David/Downloads/Streamlit_Clase/Streamlit_Clase/in/income.csv')
+df = pd.read_csv('./in/income.csv')
 st.image('pig.jpg')
 
 siteHeader = st.container()
